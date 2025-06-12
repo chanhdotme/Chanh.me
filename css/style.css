@@ -36,7 +36,6 @@ body {
 
 h2 {
   line-height: 1.2;
-  font-size: 25px;
 
 }
 
@@ -90,10 +89,11 @@ main {
   width: 335px;
   order: 2;
   color: var(--clr-text);
+  
 }
 
 .about-me .name {
-  font-size: 18px;
+  font-size: 30px;
   margin-bottom: var(--margin-bg);
 }
 
