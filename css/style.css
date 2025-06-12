@@ -91,7 +91,7 @@ main {
 }
 
 .about-me .name {
-  font-size: 1.8rem;
+  font-size: 18px;
   margin-bottom: var(--margin-bg);
 }
 
@@ -112,7 +112,7 @@ main {
 }
 
 .about-me .email a {
-  font-size: 0.9rem;
+  font-size: 18px;
   font-weight: 500;
   margin-top: 5px;
 }
@@ -121,7 +121,7 @@ main {
 
 .about-me .signature {
   font-family: 'Dancing Script', cursive;
-  font-size: 2rem;
+  font-size: 18px;
   margin-bottom: var(--margin-bg);
 }
 
